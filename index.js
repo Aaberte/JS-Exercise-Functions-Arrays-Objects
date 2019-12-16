@@ -64,11 +64,8 @@ function makePersonObject(id, name, email) {
 function getName(person) {
   return 'Hello, my name is ' + person.name;
 }
-
 const person = {
-  id: 1,
-  name: 'Leia',
-  email: 'leia@leia.com'
+ name: 'Leia',
 };
 
 
